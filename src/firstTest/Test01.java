@@ -6,6 +6,8 @@ public class Test01 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("this is first test with GIT");
+		
+		System.out.println("Second line of code");
 
 	}
 
