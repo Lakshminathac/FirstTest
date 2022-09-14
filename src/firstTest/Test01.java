@@ -8,6 +8,8 @@ public class Test01 {
 		System.out.println("this is first test with GIT");
 		
 		System.out.println("Second line of code");
+		
+		System.out.println("Third line of code");
 
 	}
 
